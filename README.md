@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey there, I'm Luke 👋
+
+![Wakatime Chart](https://wakatime.com/share/@588d56e4-e8a2-4663-a868-1257add19746/d8dcbe34-a7b4-499e-9c7b-6a54765b0817.svg)
+
+- 💼&nbsp;&nbsp; I am currently looking for work in Canada as a front-end or full-stack developer
+- ⌨️&nbsp;&nbsp; I am very fond of TypeScript, React.js and, Node.js for developing web applications
+- 🐈&nbsp;&nbsp; I love my very lazy orange cat Al
+
+Feel free to reach out on LinkedIn or through my personal site: 
+
+[![LinkedIn Badge](https://img.shields.io/badge/-luke--p-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luke-p/)](https://www.linkedin.com/in/luke-p/) [![Website Badge](https://img.shields.io/badge/-lukepritchard.ca-0d3b73?style=flat-square&logo=website&logoColor=white&link=https://www.lukepritchard.ca/)](https://www.lukepritchard.ca/)
 
 <!--
 **luke-pritch/luke-pritch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
