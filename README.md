@@ -1,6 +1,6 @@
 ### Hey there, I'm Luke 👋
 
-![Wakatime Chart](https://wakatime.com/share/@588d56e4-e8a2-4663-a868-1257add19746/d8dcbe34-a7b4-499e-9c7b-6a54765b0817.svg)
+<img src="https://wakatime.com/share/@588d56e4-e8a2-4663-a868-1257add19746/cbdbc5c9-2721-403c-ac67-6a797bae4b89.svg" height="550px" width="550px">
 
 - 💼&nbsp;&nbsp; I am currently looking for work in Canada as a front-end or full-stack developer
 - ⌨️&nbsp;&nbsp; I am very fond of TypeScript, React.js and, Node.js for developing web applications
