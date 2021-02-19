@@ -2,7 +2,7 @@
 
 <img src="https://wakatime.com/share/@588d56e4-e8a2-4663-a868-1257add19746/cbdbc5c9-2721-403c-ac67-6a797bae4b89.svg" height="auto" width="auto">
 
-- 💼&nbsp;&nbsp; I am currently looking for work in Canada as a front-end or full-stack developer
+- 💼&nbsp;&nbsp; I am currently working as a Front End developer at MobiStream in Hamilton, ON
 - ⌨️&nbsp;&nbsp; I am very fond of TypeScript, React.js, and Node.js for developing web applications
 - 🐈&nbsp;&nbsp; I love my very lazy orange cat Al
 
