@@ -4,6 +4,7 @@
 
 - 💼&nbsp;&nbsp; I am currently working as a Front End developer at MobiStream in Hamilton, ON
 - ⌨️&nbsp;&nbsp; I am very fond of TypeScript, React.js, and Node.js for developing web applications
+- 📚&nbsp;&nbsp; Learning more about Rust, WebAssembly, and the Internet Computer ∞
 - 🐈&nbsp;&nbsp; I love my very lazy orange cat Al
 
 #### Feel free to reach out on LinkedIn or through my personal site: 
