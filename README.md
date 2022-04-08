@@ -2,8 +2,8 @@
 
 <img src="https://wakatime.com/share/@588d56e4-e8a2-4663-a868-1257add19746/c01e6ff0-e174-47e3-95ed-b473ab97ddb1.svg" height="auto" width="auto">
 
-- 💼&nbsp;&nbsp; I am currently working as a Front End developer at MobiStream in Hamilton, ON
-- ⌨️&nbsp;&nbsp; I am very fond of TypeScript, React.js, and Node.js for developing web applications
+- 💼&nbsp;&nbsp; I am currently working as a Software Engineer at Ada Health on the Service Delivery Team
+- ⌨️&nbsp;&nbsp; I am very fond of TypeScript, React.js, Kotlin, Node.js, for creating full stack web applications
 - 📚&nbsp;&nbsp; Learning more about Rust, WebAssembly, and the Internet Computer ∞
 - 🐈&nbsp;&nbsp; I love my very lazy orange cat Al
 
