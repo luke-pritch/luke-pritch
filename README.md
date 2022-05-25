@@ -1,7 +1,7 @@
 ### hi i am luke  🧙🏻‍♂️ 🐸
 
-<img src="https://wakatime.com/share/@588d56e4-e8a2-4663-a868-1257add19746/c01e6ff0-e174-47e3-95ed-b473ab97ddb1.svg" height="auto" width="auto">
-
+<!-- <img src="https://wakatime.com/share/@588d56e4-e8a2-4663-a868-1257add19746/c01e6ff0-e174-47e3-95ed-b473ab97ddb1.svg" height="auto" width="auto">
+ -->
 - 💼&nbsp;&nbsp; currently working as a software engineer at ada on the service delivery team
 - ⌨️&nbsp;&nbsp; fond of typescript, react.js, kotlin, node.js, for creating full stack web applications
 - 📚&nbsp;&nbsp; learning more about rust, wasm, and the internet computer ∞
