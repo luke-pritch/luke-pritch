@@ -7,9 +7,9 @@
 - 📚&nbsp;&nbsp; learning more about rust and wasm ∞
 - 🐈&nbsp;&nbsp; i love my very lazy orange cat al
 
-#### reach out on linkedin or through my personal site: 
+#### reach out through the links below or my personal site: 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-luke--p-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luke-p/)](https://www.linkedin.com/in/luke-p/) [![Website Badge](https://img.shields.io/badge/-lukepritchard.ca-0d3b73?style=flat-square&logo=website&logoColor=white&link=https://www.lukepritchard.ca/)](https://www.lukepritchard.ca/)
+[![LinkedIn Badge](https://img.shields.io/badge/-luke--p-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luke-p/)](https://www.linkedin.com/in/luke-p/) [![StackOverflow Badge](https://img.shields.io/badge/-lpritchard-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/7024144/lpritchard)](https://stackoverflow.com/users/7024144/lpritchard) [![Website Badge](https://img.shields.io/badge/-lukepritchard.ca-0d3b73?style=flat-square&logo=website&logoColor=white&link=https://www.lukepritchard.ca/)](https://www.lukepritchard.ca/)
 
 <!--
 **luke-pritch/luke-pritch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
