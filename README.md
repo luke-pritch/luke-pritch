@@ -4,7 +4,7 @@
 <!-- <img src="https://wakatime.com/share/@588d56e4-e8a2-4663-a868-1257add19746/c01e6ff0-e174-47e3-95ed-b473ab97ddb1.svg" height="auto" width="auto">
  -->
  ### a bit about me
-- 💼&nbsp;&nbsp; currently working as a software engineer at ada on the enterprise delivery team
+- 💼&nbsp;&nbsp; currently working as a software engineer at ada health on the enterprise product team
 - ⌨️&nbsp;&nbsp; fond of typescript, react.js, kotlin, node.js, for creating full stack web applications
 - 📚&nbsp;&nbsp; learning more about rust and wasm ∞
 - 🐈&nbsp;&nbsp; i love my very lazy orange cat al
