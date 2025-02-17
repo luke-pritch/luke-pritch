@@ -1,15 +1,15 @@
-## Hello, I'm Luke! 👋
+## hey, im Luke! 👋
 
-### 🚀 Quick Bits About Me
+### 🚀 my basic info
 
-- 💼 Crafting code as a Software Engineer at Ada Health, where I'm part of the Enterprise Product team in the exciting world of **healthcare tech**
-- 🎨 Paintbrushes of choice: **TypeScript**, React.js, **Kotlin**, and Node.js for full-stack web magic
-- 📚 Currently diving deep into the **Rust** ecosystem and exploring the wonders of WebAssembly ∞
-- 🐈 Proud human of Al, the world's most accomplished feline nap enthusiast
+- 💼 writing code as a Senior Software Engineer at Ada Health, where I'm part of the Integrations & Onboarding team in **health tech**
+- 📚 currently diving deep into the **Zig** ecosystem and exploring the wonders of wasm ∞
+- 🐈 Proud owner of a beautiful orange tabby cat Al
+- 📧 you can reach me at lp@lukepritchard.ca
 
-### 🛠️ My Toolkit
+### 🛠️ my tools
 
-#### 💻 Languages I Speak (Besides Cat)
+#### 💻 langs
 
 <p>
  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript logo" width="50" height="50"/>
@@ -18,7 +18,7 @@
  <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin logo" width="50" height="50"/>
 </p>
 
-#### ⚡ Frameworks, Databases & Cloud Companions
+#### ⚡ frameworks, db & cloud infra
 
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring logo" width="50" height="50"/>
@@ -30,12 +30,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud logo" width="50" height="50"/>
 </p>
 
-### 🌟 Let's Connect!
+### 🌟 let's connect
 
-Whether you want to chat about code, cats, or the perfect cup of coffee, feel free to reach out:
-
+if you are interested in working together or recruiting me, you can find me on the following platforms:
 [![LinkedIn Badge](https://img.shields.io/badge/-luke--p-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luke-p/)](https://www.linkedin.com/in/luke-p/) 
-[![StackOverflow Badge](https://img.shields.io/badge/-lpritchard-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/7024144/lpritchard)](https://stackoverflow.com/users/7024144/lpritchard) 
 [![Website Badge](https://img.shields.io/badge/-lukepritchard.ca-0d3b73?style=flat-square&logo=website&logoColor=white&link=https://www.lukepritchard.ca/)](https://www.lukepritchard.ca/)
-
-PS: If you hear purring in the background during our call, that's just Al contributing to the conversation! 🐱💻
